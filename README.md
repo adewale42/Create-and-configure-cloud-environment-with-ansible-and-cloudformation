@@ -1,6 +1,6 @@
 # Cloudformation and ansible
 
-![Ansible](./img/ansible.png)
+
 ![Ansible](./img/1.png)
 
 ## What is ansible?
