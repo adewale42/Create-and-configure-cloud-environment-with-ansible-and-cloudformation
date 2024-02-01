@@ -1,7 +1,7 @@
-# Cloud formation and ansible
+# Cloudformation and ansible
 
-![Ansible](./img/a1.png)
-
+![Ansible](./img/ansible.png)
+![Ansible](./img/1.png)
 
 ## What is ansible?
 
